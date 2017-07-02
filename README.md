@@ -1,2 +1,2 @@
 # Tomada_Electron
-GUI for sending a http request to an wemos, allowing to turn on/off a bulb.
+GUI for sending an http request to a wemos board, allowing to turn on/off a bulb.
