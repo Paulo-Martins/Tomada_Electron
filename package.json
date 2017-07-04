@@ -1,0 +1,26 @@
+{
+  "name": "tomadaelectron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "description": "GUI for sending an http request to a wemos board, allowing to turn on/off a bulb.",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo-Martins/Tomada_Electron.git"
+  },
+  "keywords": [
+    "wemos",
+    "cloud"
+  ],
+  "author": "Paulo J. Martins",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Paulo-Martins/Tomada_Electron/issues"
+  },
+  "homepage": "https://github.com/Paulo-Martins/Tomada_Electron#readme"
+}
